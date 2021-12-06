@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+    font-family: Helvetica, sans-serif;
+}
+
+div {
+    color:rgb(46, 44, 44);
+    text-align: center;
+}
+
+h5 {
+    text-align: center;
+    align-items: flex-end;
+}
+
+img {
+    height: auto;
+    width: 333px;
+}
